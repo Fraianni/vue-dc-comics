@@ -37,7 +37,7 @@ export default {
     }
 
     #icon-container{
-        width: 70px;
+        max-width: 70px;
         height: 70px;
     }
 
